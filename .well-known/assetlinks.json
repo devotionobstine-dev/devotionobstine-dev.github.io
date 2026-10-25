@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.devotionobstine_dev.twa",
+        "sha256_cert_fingerprints": ["86:FB:54:20:AC:D3:7F:56:B2:2E:0E:67:09:33:88:EC:A7:D4:5E:10:F2:89:95:51:6D:74:9D:6F:8A:95:E7:A9"]
+      }
+    }]
